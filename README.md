@@ -5,7 +5,7 @@ Layerflow : A Unified Model for Layer-aware Video Generation
 
 <a href='https://sihuiji.github.io/Layerflow-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'>
 
-![Teaser Image](Layerflow/teaser.pdf "Teaser")
+![Teaser Image](teaser.png "Teaser")
 
 ## Citation
 
