@@ -81,10 +81,10 @@ pip install -r requirements.txt
 
 | Models       | Download Link (RGB version)                                                                                                                                           |    Download Link (RGBA version)                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Multi-layer generation      | 🤗 [Huggingface]()      🤖 [ModelScope]()             | 🤗 [Huggingface]()      🤖 [ModelScope]()
-| Multi-layer decomposition | 🤗 [Huggingface]()    🤖 [ModelScope]()     | 🤗 [Huggingface]()      🤖 [ModelScope]()
-| Foreground-conditioned generation | 🤗 [Huggingface]()    🤖 [ModelScope]()     | 🤗 [Huggingface]()      🤖 [ModelScope]()
-| Background-conditioned generation     | 🤗 [Huggingface]()     🤖 [ModelScope]()            | 🤗 [Huggingface]()      🤖 [ModelScope]()        
+| Multi-layer generation      | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/multi-layer-generation-rgb)      🤖 [ModelScope]()             | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/multi-layer-generation-rgba)      🤖 [ModelScope]()
+| Multi-layer decomposition | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/multi-layer-decomposition-rgb)    🤖 [ModelScope]()     | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/multi-layer-decomposition-rgba)      🤖 [ModelScope]()
+| Foreground-conditioned generation | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/foreground-conditioned-generation-rgb)    🤖 [ModelScope]()     | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/foreground-conditioned-generation-rgba)      🤖 [ModelScope]()
+| Background-conditioned generation     | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/background-conditioned-generation-rgb)     🤖 [ModelScope]()            | 🤗 [Huggingface](https://huggingface.co/zjuJish/LayerFlow/tree/main/background-conditioned-generation-rgba)      🤖 [ModelScope]()        
 
 
 > 💡Note: 
