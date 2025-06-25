@@ -1,18 +1,51 @@
-# LayerFlow: A Unified Model for Layer-aware Video Generation
+<p align="center">
 
-<div align="center">
-<div align="center" style="margin-top: 0px; margin-bottom: 0px;">
-<img src=logo.png width="30%"/>
-</div>
-
-### [<a href="https://arxiv.org/abs/2506.04228" target="_blank">arXiv</a>] [<a href="https://sihuiji.github.io/LayerFlow-Page/" target="_blank">Project Page</a>] [<a href="https://huggingface.co/zjuJish/LayerFlow" target="_blank">Model Weights</a>]
+<!-- ### [<a href="" target="_blank">arXiv</a>] [<a href="" target="_blank">Project Page</a>] [<a href="" target="_blank">Model Weights</a>]
 _**[Sihui Ji<sup>1,2*</sup>](https://sihuiji.github.io/), [Hao Luo<sup>2,3</sup>](https://menghanxia.github.io/), [Xi Chen<sup>1</sup>](https://xavierchen34.github.io/), [Yuanpeng Tu<sup>1</sup>](https://yuanpengtu.github.io/), [Yiyang Wang<sup>1</sup>](https://scholar.google.com/citations?user=nKr8TJwAAAAJ&hl=en), <br>[Hengshuang Zhao<sup>1†</sup>](https://hszhao.github.io/)**_
 <br>
 (*Work done during an internship at DAMO Academy, Alibaba Group †corresponding author)
 
 <sup>1</sup>The University of Hong Kong, <sup>2</sup>DAMO Academy, Alibaba Group, <sup>3</sup>Hupan Lab.
 
-</div>
+</div> -->
+
+  <h2 align="center">LayerFlow: A Unified Model for Layer-aware Video Generation</h2>
+  <p align="center">
+    <a href="https://sihuiji.github.io/"><strong>Sihui Ji</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=7QvWnzMAAAAJ&hl=zh-CN"><strong>Hao Luo</strong></a>
+    ·
+    <a href="https://xavierchen34.github.io/"><strong>Xi Chen</strong></a>
+    ·
+    <a href="https://yuanpengtu.github.io/"><strong>Yuanpeng Tu</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=nKr8TJwAAAAJ&hl=en"><strong>Yiyang Wang</strong></a>
+    ·
+    <a href="https://hszhao.github.io/"><strong>Hengshuang Zhao</strong></a>
+    <br>
+    <br>
+        <a href="https://arxiv.org/abs/2506.04228"><img src='https://img.shields.io/badge/arXiv-LayerFlow-red' alt='Paper PDF'></a>
+        <a href='https://sihuiji.github.io/LayerFlow-Page/'><img src='https://img.shields.io/badge/Project_Page-LayerFlow-green' alt='Project Page'></a>
+        <a href=''><img src='https://img.shields.io/badge/ModelScope-Weights-yellow'></a>
+        <a href='https://huggingface.co/zjuJish/LayerFlow'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-blue'></a>
+        <!-- <a href='https://replicate.com/lucataco/anydoor'><img src='https://replicate.com/lucataco/anydoor/badge'></a> -->
+    <br>
+    <b>The University of Hong Kong &nbsp; | &nbsp;  Alibaba Group  | &nbsp;  Ant Group </b>
+  </p>
+  
+  <table align="center">
+    <tr>
+    <td>
+      <img src="./teaser.png">
+    </td>
+    </tr>
+  </table>
+
+
+<!-- <div align="center">
+<div align="center" style="margin-top: 0px; margin-bottom: 0px;">
+<img src=logo.png width="30%"/>
+</div> -->
 
 <!-- **Important Note:** This open-source repository is intended to provide a reference implementation. Due to the difference in the underlying T2V model's performance, the open-source version may not achieve the same performance as the model in our paper. If you'd like to use the best version of ReCamMaster, please upload your video to [this link](https://docs.google.com/forms/d/e/1FAIpQLSezOzGPbm8JMXQDq6EINiDf6iXn7rV4ozj6KcbQCSAzE8Vsnw/viewform?usp=dialog). Additionally, we are working on developing an online trial website. Please stay tuned to updates on the [Kling website](https://app.klingai.com/global/). -->
 
@@ -95,24 +128,18 @@ However, due to difficulties in cross-domain generation and channel alignment, t
 Download models using huggingface-cli:
 ``` sh
 pip install "huggingface_hub[cli]"
-git clone https://huggingface.co/zjuJish/LayerFlow
+huggingface-cli download zjuJish/LayerFlow --local-dir ./sat/ckpts_2b_lora
 ```
 or using git:
 ``` sh
 git lfs install
-huggingface-cli download zjuJish/LayerFlow --local-dir ./sat/ckpts_2b_lora
+git clone https://huggingface.co/zjuJish/LayerFlow
 ```
 
 <!-- Download models using modelscope-cli:
 ``` sh
 pip install modelscope
 modelscope download zjuhuijun/CogVideo --local_dir ./sat/ckpts_2b_lora
-```
-
-or using git:
-``` sh
-git lfs install
-git clone https://oauth2:d8nFhvhozG3s3bFycyQQ@www.modelscope.cn/datasets/zjuhuijun/CogVideo.git
 ``` -->
 For the pretrained VAE from CogVideoX-2B model, download as follows:
 
@@ -199,6 +226,60 @@ sat
 │   └── latest
 ``` -->
 
+
+## 🔑 Inference
+
+```
+cd sat
+```
+
+Run multi-layer generation (RGB version)
+
+```
+bash 'inference_stage2_gen_rgb.sh'
+```
+
+Run multi-layer generation (RGA version)
+
+```
+bash 'inference_stage2_gen_rgba.sh'
+```
+
+Run multi-layer decomposition (RGB version)
+
+```
+bash 'inference_stage2_seg_rgb.sh'
+```
+
+Run multi-layer decomposition (RGA version)
+
+```
+bash 'inference_stage2_seg_rgba.sh'
+```
+
+Run foreground-conditioned generation (RGB version)
+
+```
+bash 'inference_stage2_fg2bg_rgb.sh'
+```
+
+Run foreground-conditioned generation (RGA version)
+
+```
+bash 'inference_stage2_fg2bg_rgba.sh'
+```
+
+Run background-conditioned generation (RGB version)
+
+```
+bash 'inference_stage2_bg2fg_rgb.sh'
+```
+
+Run background-conditioned generation (RGA version)
+
+```
+bash 'inference_stage2_bg2fg_rgba.sh'
+```
 
 
 <!-- ## ⚙️ Code: ReCamMaster + Wan2.1 (Inference & Training)
