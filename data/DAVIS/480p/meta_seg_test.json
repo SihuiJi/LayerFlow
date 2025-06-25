@@ -1,0 +1,116 @@
+{
+    "videos": {
+        "paragliding": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": " A paraglider, dressed in a dark suit and helmet, is seen mid-flight against a pitch-black sky, with a vibrant red and white parachute. The parachute's colors stand out, emphasizing the paraglider's solitary journey. As time passes, the paraglider's position shifts slightly, with the parachute's colors and the paraglider's harness and control bar becoming more visible. The scene remains devoid of other objects or people, focusing on the paraglider's connection with the open air. The consistent theme is the paraglider's exhilarating flight and the solitude of the experience.",
+            "bg_prompt": " The video features a serene, small town nestled in a verdant valley, with a prominent church and a mix of traditional and modern buildings. The town is surrounded by lush greenery, rolling hills, and a dense forest, creating a tranquil atmosphere. The architecture, with terracotta roofs and stone facades, blends into the natural landscape, suggesting a harmonious coexistence with nature. A solitary road and a solitary vehicle are visible, indicating the town's connection to the outside world. The soft lighting throughout the video casts a gentle glow, enhancing the peacefulness of the rural setting.",
+            "bl_prompt": " A paraglider with a red and white wing glides above a lush valley, descending towards a small town with a church spire. The scene is tranquil, with the paraglider's descent adding a sense of adventure to the serene landscape. The town, nestled among rolling hills and dense forests, is bathed in sunlight, suggesting a peaceful day. As the paraglider continues to descend, the colors of the wing stand out against the greenery and earthy tones of the buildings. The video captures the essence of a serene yet exhilarating paragliding experience.",
+            "max_id": "1"
+        },
+        "goat": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A goat with a luxuriant, shaggy coat in varying shades of gray and brown is seen from behind, walking against a black background. The goat's movement is captured in a series of frames, emphasizing its poised and graceful posture, with its head turned to the side in one instance, suggesting curiosity or alertness. The goat's long, curved horns and the texture of its fur are highlighted, with the scene's simplicity focusing on the animal's natural elegance and the contrast between its fur and the background. The goat's solitary presence is accentuated throughout, with no other elements or objects to distract from its movement.",
+            "bg_prompt": " A man stands on a rocky outcrop, gazing at a mountainous landscape with a winding path and a river. The scene is serene, with a clear sky and a misty veil over the terrain. As time passes, the man remains alone, the environment unchanged, emphasizing solitude. The landscape is rugged, with a river cutting through the valley and a stone wall suggesting human presence. The man's attention is fixed on the distant mountains, with a misty veil adding mystery. The scene is tranquil, with a clear sky and a river snaking through the valley, highlighting the natural beauty and serenity of the high-altitude terrain.",
+            "bl_prompt": " A goat with a luxuriant grey and brown coat stands on a rocky ledge, surveying its surroundings. The landscape below is a mix of greenery and earthy tones, with a stone wall meandering through the terrain, suggesting a human presence. As time passes, the goat remains poised on the ledge, its gaze shifting from the camera to the horizon, embodying a serene yet adventurous spirit. The scene is bathed in sunlight, highlighting the goat's silhouette against the rugged beauty of the high-altitude environment. The goat's presence on the ledge, amidst the sparse greenery and earthy hues, evokes a sense of serene isolation and the untamed beauty of nature.",
+            "max_id": "1"
+        },
+        "lucia": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A young woman in a sleeveless grey dress and white sneakers with black accents walks along a sidewalk, carrying a yellow backpack. Her hair is in a low bun, and she appears focused and determined. As she continues, her attire is described with slight variations, including a black dress and patterned tights, and her hair is pulled back into a ponytail. The background remains a stark black, emphasizing her solitary figure and the simplicity of her outfit. Throughout, her posture and the absence of other people or objects highlight her movement and the serene atmosphere of her walk.",
+            "bg_prompt": " A solitary figure walks along a paved path in a tranquil park, surrounded by lush greenery and small yellow flowers, with a blue shed and a red brick building in the background. The scene is bathed in the warm glow of the sun, suggesting it's either early morning or late afternoon. As the person continues, their legs blur, indicating movement. The path leads to a vibrant green tree, and the long shadows cast by the sun enhance the peaceful atmosphere. The park is devoid of other people or animals, highlighting the figure's solitary journey through the serene environment.",
+            "bl_prompt": "A woman in a sleeveless black dress and white sneakers walks along a brick path in a park, carrying a yellow backpack. She is seen in various states of contemplation and movement, her hair tied back, sometimes wearing sunglasses. The park is lush with greenery, including tall grass and small yellow flowers, under the warm glow of the sun, suggesting it's either early morning or late afternoon. A blue structure and a red building are visible in the background, adding to the tranquil urban setting. The woman's peaceful stroll is highlighted by the soft lighting and the serene environment.",
+            "max_id": "1"
+        },
+        "mallard-water": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A mallard duck with brown and tan feathers, accented by a blue wing patch, is showcased against a black background. Initially, the duck is seen in profile, its head turned to offer a three-quarter view. As moments pass, the duck's position shifts slightly, maintaining its serene and alert demeanor, with its head gracefully turned to the side. The detailed feather patterns and the duck's calm yet attentive posture are consistently highlighted, emphasizing its natural beauty and the tranquility of its environment. The duck's gaze eventually meets the viewer's, creating a connection with the observer.",
+            "bg_prompt": " A duck with a dark grey and white plumage swims in a calm pond, its head submerged and creating ripples on the water's surface. The duck's reflection is seen in the still water, surrounded by a serene environment with soft lighting and a blurred greenery backdrop. As the duck continues to swim, its head gracefully emerges above the water, and its reflection merges with the rippled surface, creating a tranquil scene. The duck's orange beak and feet are visible, and the surrounding greenery and blue sky are reflected in the water, enhancing the peaceful atmosphere.",
+            "bl_prompt": "A duck with brown and tan feathers, accented by blue on its wings and a distinctive patch near its beak, glides through a tranquil pond. Its reflection is seen in the calm water, surrounded by ripples that dance in the light. The duck's posture is relaxed yet attentive, suggesting a state of peaceful vigilance. As it moves, the serene environment is highlighted by the soft lighting, which casts a gentle glow and enhances the natural beauty of the scene. The duck's graceful form and the undisturbed water surface contribute to the overall tranquility of the setting.",
+            "max_id": "1"
+        }
+    }
+}

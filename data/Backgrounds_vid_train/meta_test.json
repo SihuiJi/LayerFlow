@@ -1,0 +1,32 @@
+{
+    "videos": {
+        "balloon": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A vibrant red balloon floats gracefully in the sky, its glossy surface glimmering brilliantly under the bright sunlight. The balloon bobs gently with the wind, its vivid hue contrasting sharply with the expansive blue above. It embodies a sense of joy and adventure, inviting viewers to dream and imagine as it rises higher, becoming a small dot against the vastness.",
+            "bg_prompt": "A tranquil maritime scene unfolds with a boat moving through calm blue waters, leaving a frothy wake. Seagulls are seen in various states of flight, some close to the water's surface and others soaring higher, against a backdrop of a clear sky and a coastline dotted with buildings and greenery. The peaceful coexistence of human activity and wildlife is evident as the seagulls glide effortlessly, some in pairs and others alone, against the serene blue sky and the distant shoreline. The scene captures the essence of a peaceful day at sea, with the boat's journey marked by the gentle wake trailing behind.",
+            "bl_prompt": "The video captures the enchanting sight of a vibrant red balloon as it soars majestically over a serene sea. The tranquil maritime backdrop showcases a boat gliding smoothly through calm waters while playful seagulls dance beneath the vast blue sky. As the balloon ascends higher, the scene perfectly blends a sense of carefree wonder with the calming beauty of the ocean, creating a joyful tableau that resonates with viewers.",
+            "max_id": "1"
+        }
+    }
+}

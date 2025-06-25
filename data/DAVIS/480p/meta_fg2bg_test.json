@@ -1,0 +1,144 @@
+{
+    "videos": {
+        "rhino": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A rhinoceros is showcased in profile against a black background, its thick, wrinkled skin in shades of gray and white. Initially, the animal appears alert and attentive, with its head turned slightly to the left. As time passes, the rhino's skin is illuminated by a light source from above, casting a shadow to its right. The rhino's calm demeanor is consistent, with its eyes closed and ears perked up, suggesting attentiveness. The focus remains solely on the rhino's serene presence and detailed anatomy, with no other elements or distractions present.",
+            "bg_prompt": " The video features a large, weathered animal skull with a mottled brown and tan color scheme, lying on a bed of smooth stones in a dry, arid environment. The skull's jaw is open, revealing teeth, and it is surrounded by sparse greenery and a dirt path. As time passes, the skull remains the focal point, with the surrounding rocks and sparse grasses contributing to the scene's tranquility. The skull's textured surface and the serene, untouched setting evoke a sense of solitude and the passage of time. The backdrop includes a building with a glass facade, suggesting a zoo or wildlife sanctuary setting.",
+            "bl_prompt": "A rhinoceros with thick, light gray skin and two horns is seen walking on a dirt path within a zoo enclosure, surrounded by a variety of rocks and sparse greenery under a clear blue sky. As it moves, the environment changes slightly, featuring a log, artificial rocks, and a grassy area, all under the warm glow of sunlight. The rhino's calm demeanor is consistent, with its head occasionally turned to the side, suggesting attentiveness to its surroundings. The enclosure is designed to mimic a natural habitat, with the rhino's solitary presence emphasized by the absence of other animals or humans.",
+            "max_id": "1"
+        },
+        "breakdance": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A man in a red shirt and light blue jeans performs a series of handstands against a black background. Initially, he is seen with his body inverted, arms supporting his weight, and legs extended. As he continues, his attire includes a black cap and red sneakers with white accents. His dynamic movements are emphasized by the stark contrast of his vibrant clothing against the dark backdrop. Throughout, he maintains a focused expression and a strong sense of balance, with his body occasionally forming an inverted V shape. The video captures his solitary performance, highlighting his athleticism and the energy of his dance.",
+            "bg_prompt": "A dynamic gathering of young adults in an urban setting is captured, with a focus on a central figure performing a skateboarding trick on a wooden ramp. The crowd, dressed in casual streetwear, watches intently, their expressions ranging from focused to amused. The backdrop features classic European architecture, adding to the urban atmosphere. Over time, the scene remains consistent, with the crowd's attention fixed on the skateboarder's performance, highlighted by the warm glow of sunlight. The presence of a 'THUMP' logo suggests a connection to a skateboarding culture event or publication.",
+            "bl_prompt": "A breakdancer in a red hoodie and blue jeans performs a series of one-handed handstands on a wooden platform in an urban street setting, captivating a diverse crowd of onlookers. The crowd, consisting of both young adults and children, watches intently, some recording the performance on their phones, against a backdrop of classic European architecture under a clear sky. The dancer's dynamic movements and the vibrant energy of the spectators are highlighted throughout, with the scene set in a city that exudes a blend of historical charm and modern culture.",
+            "max_id": "1"
+        },
+        "dog": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A golden retriever dog with a cream-colored coat and a red harness is seen walking on a black background, its tail wagging and head bowed in a sniffing or following motion. The dog's movement is captured in various frames, emphasizing its dynamic posture and the texture of its fur. The presence of a watermark 'Bilibili' in the upper right corner of some images suggests the source of the footage. The dog's focused expression and the blurred motion of its tail convey a sense of energy and purpose throughout its walk.",
+            "bg_prompt": " A cheetah, with its coat a blend of tawny and white, is seen running across a dry, grassy terrain, its body a blur against the sparse greenery and a wooden fence in the background. The cheetah's swift movement is emphasized by the motion blur, highlighting its agility and the speed at which it traverses the landscape. Throughout, the cheetah's form is a dynamic contrast to the stillness of the environment, with the scene devoid of any other life or human presence, focusing solely on the animal's solitary grace and the raw beauty of its natural habitat.",
+            "bl_prompt": "A golden retriever with a cream-colored coat and a red harness is seen walking through a sparse, dry grassy area, displaying a focused demeanor as it sniffs the ground, possibly following a scent or exploring. The dog's tail is captured in various states of motion, from being swept back to being held high, indicating movement and energy. The background features a simple wooden fence and a bush with green foliage, suggesting a serene, possibly rural setting. The retriever's solitary presence is emphasized throughout, with no other individuals or animals visible, highlighting a moment of quiet activity in a tranquil outdoor environment.",
+            "max_id": "1"
+        },
+        "horsejump-low": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": " A woman in equestrian attire, including a dark helmet and white breeches, is seen riding a white horse through various stages of a gallop. The pair is captured in slow motion against a black background, emphasizing their dynamic movement and the intensity of their ride. The woman's posture and the horse's muscular form are highlighted, showcasing their skill and partnership. The sequence of images focuses on the woman and horse's interaction, devoid of any other objects or individuals, creating a sense of isolation and concentration on their performance. The detailed descriptions of the frames suggest a narrative of focused athleticism and the beauty of equestrian sports.",
+            "bg_prompt": " A brown horse gallops with a rider in dark attire on its back, navigating an obstacle course marked by numbered hurdles and decorative elements like potted plants and a brick wall design, under a clear sky. The scene transitions to show the horse's silhouette against the sandy ground, emphasizing its dynamic movement and the serene, well-maintained outdoor arena. As the horse continues, it is seen mid-jump over a blue and white obstacle, with the rider's shadow cast on the ground, highlighting the intensity of the competition. The course features a variety of obstacles, including a brick wall and a blue and white hurdle, under clear skies, suggesting a warm, sunny day ideal for equestrian sports.",
+            "bl_prompt": " A young rider in full equestrian gear, including a black helmet and white breeches, is seen atop a dappled grey horse, preparing for a jump over an obstacle marked with a red flag in an outdoor arena. As time progresses, the rider, occasionally wearing a dark jacket, demonstrates skill and focus while navigating through a series of obstacles, including a blue and white obstacle marked with a red flag. The arena is surrounded by lush greenery, suggesting a serene yet competitive equestrian training environment. The rider's attire and the horse's poised demeanor indicate a formal equestrian competition or training session.",
+            "max_id": "1"
+        },
+        "mallard-fly": {
+            "objects": {
+                "1": {
+                    "frames": [
+                        "0000",
+                        "0001",
+                        "0002",
+                        "0003",
+                        "0004",
+                        "0005",
+                        "0006",
+                        "0007",
+                        "0008",
+                        "0009",
+                        "0010",
+                        "0011",
+                        "0012",
+                        "0013",
+                        "0014",
+                        "0015"
+                    ]
+                }
+            },
+            "fg_prompt": "A duck with brown and tan feathers, accented by blue wing patches and an orange beak, stands in profile against a black background, appearing alert and poised. As time passes, the duck's posture remains poised, with its head turned to the side, suggesting curiosity or attentiveness. The lighting casts subtle shadows, highlighting the duck's detailed feather patterns and creating a serene atmosphere. The duck's gaze eventually shifts towards the viewer, and its beak is slightly open, as if caught mid-call. The scene is tranquil, with the duck's presence emphasized by the stark contrast and the serene mood it evokes.",
+            "bg_prompt": " The video features a serene river flowing through a rocky landscape, with the water's surface rippling gently. A lush green grassy bank, speckled with red flowers and small leaves, slopes down to the river. The scene is bathed in the warm light of the golden hour, suggesting it's either early morning or late afternoon. The tranquil atmosphere is consistent throughout, with no signs of human presence or wildlife, and the natural colors of the grass, rocks, and water create a peaceful setting. The camera maintains a steady view of this idyllic landscape.",
+            "bl_prompt": " A mallard duck with brown and black plumage and distinctive blue wing patches is seen walking on a vibrant green lawn, illuminated by the golden light of the sun, suggesting it's either early morning or late afternoon. The duck's journey is peaceful, with its head turned gracefully to the side, eyes alert, and beak slightly open as if sensing its surroundings. The background features a tranquil stream with gentle ripples, bordered by rocks, enhancing the serene atmosphere. The scene is bathed in the warm glow of the sun, casting long shadows and highlighting the lush greenery, creating a tranquil and picturesque setting.",
+            "max_id": "1"
+        }
+    }
+}
