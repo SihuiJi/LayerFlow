@@ -30,7 +30,7 @@ _**[Sihui Ji<sup>1,2*</sup>](https://sihuiji.github.io/), [Hao Luo<sup>2,3</sup>
         <a href='https://huggingface.co/zjuJish/LayerFlow'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-blue'></a>
         <!-- <a href='https://replicate.com/lucataco/anydoor'><img src='https://replicate.com/lucataco/anydoor/badge'></a> -->
     <br>
-    <b>The University of Hong Kong &nbsp; | &nbsp;  DAMO Academy, Alibaba Group  | &nbsp;  Hupan Lab </b>
+    <b>The University of Hong Kong &nbsp; | &nbsp;  Alibaba Group  | &nbsp;  Ant Group </b>
   </p>
   
   <table align="center">
