@@ -239,7 +239,7 @@ Run multi-layer generation (RGB version)
 bash 'inference_stage2_gen_rgb.sh'
 ```
 
-Run multi-layer generation (RGA version)
+Run multi-layer generation (RGBA version)
 
 ```
 bash 'inference_stage2_gen_rgba.sh'
@@ -251,7 +251,7 @@ Run multi-layer decomposition (RGB version)
 bash 'inference_stage2_seg_rgb.sh'
 ```
 
-Run multi-layer decomposition (RGA version)
+Run multi-layer decomposition (RGBA version)
 
 ```
 bash 'inference_stage2_seg_rgba.sh'
@@ -263,7 +263,7 @@ Run foreground-conditioned generation (RGB version)
 bash 'inference_stage2_fg2bg_rgb.sh'
 ```
 
-Run foreground-conditioned generation (RGA version)
+Run foreground-conditioned generation (RGBA version)
 
 ```
 bash 'inference_stage2_fg2bg_rgba.sh'
@@ -275,7 +275,7 @@ Run background-conditioned generation (RGB version)
 bash 'inference_stage2_bg2fg_rgb.sh'
 ```
 
-Run background-conditioned generation (RGA version)
+Run background-conditioned generation (RGBA version)
 
 ```
 bash 'inference_stage2_bg2fg_rgba.sh'
