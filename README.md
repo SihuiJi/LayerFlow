@@ -56,7 +56,7 @@ _**[Sihui Ji<sup>1,2*</sup>](https://sihuiji.github.io/), [Hao Luo<sup>2,3</sup>
 <!-- - __[2025.03.31]__: Release the [MultiCamVideo Dataset](https://huggingface.co/datasets/KwaiVGI/MultiCamVideo-Dataset).
 - __[2025.03.31]__: We have sent the inference results to the first 1000 trial users. -->
 - __[2025.06.04]__: Release the [project page](https://sihuiji.github.io/LayerFlow-Page/) and the [arxiv paper](https://arxiv.org/abs/2506.04228).
-
+- __[2025.03.29]__: LayerFLow is accepted by Siggragh 2025 🎉🎉🎉.
 
   
 ## 📖 Introduction
